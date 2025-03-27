@@ -19,11 +19,11 @@
 
     const nutzerdaten = {
         anrede: "m",
-        vorname: "Johannes eike",
-        nachname: "Hoffmann",
-        email: "j.eikehoffmann@gmail.com",
-        telefon: "0176 434 77 0 88",
-        fin: "P50820"
+        vorname: "placeholder",
+        nachname: "placeholder",
+        email: "placeholder",
+        telefon: "placeholder",
+        fin: "placeholder"
     };
 
     function log(msg) {
